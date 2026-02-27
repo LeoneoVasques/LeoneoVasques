@@ -1,15 +1,15 @@
 # Olá, eu sou o Leoneo! 👋
 
-### Desenvolvedor Front-End em Transição | Especialista em Visualização 3D
+### Desenvolvedor Front-End Junior | Especialista em Visualização 3D
 
-Atualmente focado em transformar a experiência do usuário através do código, migrando de uma base sólida em Customer Support para o desenvolvimento **Front-End Junior**. Unindo a lógica da programação com o olhar estético da arquitetura 3D.
+Atualmente focado em transformar a experiência do usuário através do código, unindo a lógica do desenvolvimento **React/Next.js** com o olhar estético da **Arquitetura 3D**. Atuo no ecossistema financeiro da SwitchPay, resolvendo bugs e otimizando interfaces.
 
 ---
 
 ### 💻 No que estou trabalhando:
-- 🛠️ Atualmente atuando no ecossistema da **SwitchPay**, lidando com integrações financeiras e suporte técnico.
-- 🚀 Aprimorando habilidades em **React** e **Next.js** com foco em performance e interfaces escaláveis.
-- 🏗️ Desenvolvendo meu portfólio pessoal que une desenvolvimento web e renderizações arquitetônicas.
+- 🛠️ Desenvolvendo interfaces escaláveis com **Next.js** e **TypeScript**.
+- 🚀 Integrando soluções de pagamento e fluxos de checkout.
+- 🏗️ Criando experiências visuais que unem portfólio web e renderizações arquitetônicas.
 
 ### 🛠️ Tecnologias & Ferramentas:
 
@@ -26,17 +26,19 @@ Atualmente focado em transformar a experiência do usuário através do código,
 
 ---
 
-### 📊 Estatísticas do GitHub:
+### 📈 Contribuições e Atividade:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoneoVasques&theme=tokyonight&hide_border=true)
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoneoVasques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoneoVasques&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoneoVasques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoneoVasques&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ### ⚓ Além do Código:
-- 🏴‍☠️ Grande entusiasta de **One Piece** (em busca do meu próprio tesouro no desenvolvimento).
+- 🏴‍☠️ Entusiasta de **One Piece** (Em busca do próximo Gear no desenvolvimento).
 - 🎮 Jogador de **The Binding of Isaac** e explorador de mods.
 - 🎨 Amante de design e visualização arquitetônica.
 
@@ -45,3 +47,5 @@ Atualmente focado em transformar a experiência do usuário através do código,
 ### 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoneovasques/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leoneo.vasques@gmail.com)
+
+"O código é a fundação, o design é a fachada." 🏛️💻
