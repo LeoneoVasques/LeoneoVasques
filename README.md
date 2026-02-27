@@ -25,7 +25,7 @@ Atualmente em transição de carreira, unindo a experiência em suporte técnico
 
 ---
 
-### 📊 Estatísticas (Servidor Alternativo):
+### 📊 Estatísticas:
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeoneoVasques&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -34,15 +34,7 @@ Atualmente em transição de carreira, unindo a experiência em suporte técnico
 
 ---
 
-### ⚓ Além das Linhas de Código:
-* 🏴‍☠️ Acompanhando a jornada de Luffy em **One Piece**.
-* 🎮 Explorando as builds e segredos de **The Binding of Isaac: Afterbirth**.
-* 🏠 Transformando conceitos arquitetônicos em realidade virtual e renders de alta qualidade.
-
----
-
 ### 📫 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoneovasques/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leoneo.vasques@gmail.com)
 
-*"O código é a estrutura, o design é a alma do projeto."* 🏛️💻
