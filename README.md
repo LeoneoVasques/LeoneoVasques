@@ -6,7 +6,7 @@ Atualmente em transição de carreira, unindo a experiência em suporte técnico
 
 ---
 
-### 📈 Atividade no GitHub (Commits por dia):
+### 📈 Atividade no GitHub:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoneoVasques&theme=react-dark&hide_border=true)
 
