@@ -6,6 +6,12 @@ Atualmente focado em transformar a experiência do usuário através do código,
 
 ---
 
+### 📈 Atividade no GitHub (Commit History):
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoneoVasques&theme=tokyonight&hide_border=true)
+
+---
+
 ### 💻 No que estou trabalhando:
 - 🛠️ Desenvolvendo interfaces escaláveis com **Next.js** e **TypeScript**.
 - 🚀 Integrando soluções de pagamento e fluxos de checkout.
@@ -26,13 +32,11 @@ Atualmente focado em transformar a experiência do usuário através do código,
 
 ---
 
-### 📈 Contribuições e Atividade:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoneoVasques&theme=tokyonight&hide_border=true)
+### 📊 Estatísticas Gerais:
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoneoVasques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoneoVasques&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoneoVasques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoneoVasques&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
